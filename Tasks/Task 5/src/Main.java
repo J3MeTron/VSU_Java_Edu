@@ -34,17 +34,23 @@ public class Main {
         startProgram();
         print(FIRST_BOX_TEXT);
         Scanner scanner = new Scanner(System.in);
-        Integer h = null;
 
+        Integer h = null;
         while (h == null) {
             try{
-                h = Integer.parseInt(scanner.next());
+                int value = Integer.parseInt(scanner.next());
 
-            }
-            catch (NumberFormatException ex) {
-                System.out.println("Число 1 не подходит по формату, попробуйте снова! \n");
+                if (value <= 3) {
+                    throw new Exception();
+                }
+
+                h = value;
+            }  catch (Exception e) {
+                System.out.println("Число 2 не подходит по формату, попробуйте снова! \n");
             }
         }
+
+
         Integer w = null;
         while (w == null) {
             try{

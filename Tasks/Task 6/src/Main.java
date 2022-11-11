@@ -7,6 +7,19 @@ public class Main {
             "\t3) сумму тех слагаемых, которые по абсолютной величине больше e/10;\n" +
             "\t4) значение функции с помощью методов Math.\n\n";
 
+    static double readDoubleValueFromConsole(String varName) {
+        while (true) {
+            System.out.printf("Введите %s: ", varName);
+            Scanner scanner = new Scanner(System.in);
+            String str = scanner.nextLine();
+            try {
+                return Double.parseDouble(str);
+            } catch (Exception e) {
+                System.out.printf(" -> неверное значение (%s)%n", str);
+            }
+        }
+    }
+
     public static final String BOX_TEXT_X = "Введите x (-1 < x < 1): ";
     public static final String BOX_TEXT_E = "Введите e > 0 ";
     public static final String BOX_TEXT_N = "Введите n > 0";
