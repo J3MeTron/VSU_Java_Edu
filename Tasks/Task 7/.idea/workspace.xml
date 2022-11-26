@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b5c7ec-0581-4ca2-9b1c-2d6ff8dc8be8" name="Changes" comment="7 task">
-      <change beforePath="$PROJECT_DIR$/../Outsorce/Даня/Task 4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce/Даня/Task 4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 8/src/Program/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/src/ru/vsu/cs/course1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/src/ru/vsu/cs/course1/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 8/src/Program/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 8/src/Program/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Education/JavaVsu/Practice/VSU_Java_Edu/Tasks/Task 7"
+    "last_opened_file_path": "D:/Education/JavaVsu/Practice/VSU_Java_Edu/Tasks/Task 6"
   }
 }]]></component>
   <component name="RunManager">
