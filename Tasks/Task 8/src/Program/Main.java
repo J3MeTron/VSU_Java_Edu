@@ -1,7 +1,10 @@
 package Program;
 
+import util.SwingUtils;
+
 import java.io.FileNotFoundException;
 import java.util.Arrays;
+import java.util.Locale;
 import java.util.Scanner;
 import java.util.stream.Stream;
 
@@ -53,18 +56,22 @@ public class Main {
         int ch = readIntegerValueOfChooseFromConsole();
         print("Введите целое положительное число больще нуля N: ");
         int N = readIntegerValueFromConsole();
+        int arr[][];
 
         switch (ch) {
             case (1):
-                consoleArrayRowOffset(N);
+                arr = consoleArrayRowOffset(N);
+                outputAtFile(arr);
                 break;
             case (2):
-                consoleArrayOffsetByColumns(N);
+                arr = consoleArrayOffsetByColumns(N);
+                outputAtFile(arr);
                 break;
         }
     }
 
-    public static void consoleArrayOffsetByColumns(int n) throws FileNotFoundException {
+    public static int[][] consoleArrayOffsetByColumns(int n) throws FileNotFoundException {
+
         int[][] arr = ArrayUtils.readIntArray2FromFile("input.txt");
 
         for (int i = 1; i < arr.length; i++)
@@ -89,13 +96,14 @@ public class Main {
                 }
             }
         }
-
-        ArrayUtils.writeArrayToFile("output.txt", arr, "");
-        print("Файл \"output.txt\" изменён!");
-
+        return arr;
     }
 
-    public static void consoleArrayRowOffset(int n) throws FileNotFoundException {
+    public static void outputAtFile(int[][] N) throws FileNotFoundException {
+        ArrayUtils.writeArrayToFile("output.txt", N, "");
+        print("Файл \"output.txt\" изменён!");
+    }
+    public static int[][] consoleArrayRowOffset(int n) throws FileNotFoundException {
         int[][] arr = ArrayUtils.readIntArray2FromFile("input.txt");
         for (int i = 1; i < arr.length; i++)
             if (arr[i].length != arr[0].length) {
@@ -103,21 +111,53 @@ public class Main {
                 System. exit(0);
             }
         int[][] arr2 = shiftDown(arr, n);
-
-        ArrayUtils.writeArrayToFile("output.txt", arr2, "");
-        print("Файл \"output.txt\" изменён!");
+        return arr2;
     }
 
     public static int[][] shiftDown(int[][] arr, int interval) {
-        return Stream.concat(
-                        Arrays.stream(arr, arr.length - interval, arr.length),
-                        Arrays.stream(arr, 0, arr.length - interval))
-                .toArray(int[][]::new);
+        for (int i = interval; i > 0; i = i - arr.length) {
+            if (i >= arr.length){
+                arr = Stream.concat(
+                                Arrays.stream(arr, arr.length - arr.length, arr.length),
+                                Arrays.stream(arr, 0, arr.length - arr.length))
+                        .toArray(int[][]::new);
+            }
+            else{
+                arr = Stream.concat(
+                                Arrays.stream(arr, arr.length - i, arr.length),
+                                Arrays.stream(arr, 0, arr.length - i))
+                        .toArray(int[][]::new);
+            }
+        }
+        return arr;
     }
 
 
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void winMain() throws Exception {
+        //SwingUtils.setLookAndFeelByName("Windows");
+        Locale.setDefault(Locale.ROOT);
+        //UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+        SwingUtils.setDefaultFont("Microsoft Sans Serif", 18);
+
+        /* Create and display the form */
+        java.awt.EventQueue.invokeLater(new Runnable() {
+            public void run() {
+                new FrameMain().setVisible(true);
+            }
+        });
+    }
+    public static void main(String[] args) throws Exception {
         startProgram();
-        chooseCaseOffset();
+        int n = 2;
+        switch (n){
+            case 1:
+                winMain();
+                break;
+            case 2:
+                chooseCaseOffset();
+
+        }
+
+
     }
 }
