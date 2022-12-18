@@ -2,136 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af2b5a09-60d2-4c46-b1a1-b1081d50318b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/FrameMain$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/FrameMain$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/FrameMain$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/FrameMain$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/FrameMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/util/ArrayUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/util/DrawUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/util/JTableUtils$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/util/JTableUtils$1RowHeaderRenderer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/util/JTableUtils$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/util/JTableUtils$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/util/JTableUtils$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/util/JTableUtils$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/util/JTableUtils$JTableUtilsException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/util/JTableUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/util/ListUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/util/SwingUtils$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task 10/util/SwingUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FrameMain.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FrameMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/ArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/DrawUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/JTableUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/ListUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/SwingUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/util/UniversalUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 8/out/production/Task 8/Program/FrameMain$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 8/out/production/Task 8/Program/FrameMain$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 8/out/production/Task 8/Program/FrameMain$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 8/out/production/Task 8/Program/FrameMain$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 8/out/production/Task 8/Program/FrameMain$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 8/out/production/Task 8/Program/FrameMain$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 8/out/production/Task 8/Program/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 8/src/util/ArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 8/src/util/DrawUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 8/src/util/JTableUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 8/src/util/SwingUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/Task 9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/FrameMain$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/FrameMain$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/FrameMain$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/FrameMain$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/FrameMain$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/FrameMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/util/ArrayUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/util/DrawUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/util/JTableUtils$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/util/JTableUtils$1RowHeaderRenderer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/util/JTableUtils$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/util/JTableUtils$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/util/JTableUtils$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/util/JTableUtils$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/util/JTableUtils$JTableUtilsException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/util/JTableUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/util/SwingUtils$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/out/production/Task 9/util/SwingUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/src/util/ArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/src/util/DrawUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/src/util/JTableUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/src/util/ListUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/src/util/SwingUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task 9/src/util/UniversalUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Примеры/Arr2JTableDemo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Примеры/Arr2JTableDemo/Arr2JTableDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Примеры/CollectionsSamples/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Примеры/CollectionsSamples/CollectionsSamples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 8/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8/out/production/Task 8/Program/FrameMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 8/out/production/Task 8/Program/FrameMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8/out/production/Task 8/Program/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 8/out/production/Task 8/Program/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 8/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8/src/Program/FrameMain.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8/src/Program/FrameMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 8/src/Program/FrameMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8/src/Program/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 8/src/Program/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/input01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/input01.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/FrameMain$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/FrameMain$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/FrameMain$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/FrameMain$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/FrameMain$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/FrameMain$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/FrameMain$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/FrameMain$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/FrameMain$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/FrameMain$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/FrameMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/FrameMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/Program$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/Program$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/course1/Task.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/ArrayUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/ArrayUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/DrawUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/DrawUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils$1RowHeaderRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils$1RowHeaderRenderer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils$JTableUtilsException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils$JTableUtilsException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/JTableUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/SwingUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/SwingUtils$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/SwingUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/out/production/Arr1JTableDemo/ru/vsu/cs/util/SwingUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/src/ru/vsu/cs/course1/FrameMain.form" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 9/src/FrameMain.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/src/ru/vsu/cs/course1/FrameMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 9/src/FrameMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 11/out/production/Task 11/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 12/Task 12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 12/out/production/Task 12/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 12/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 11/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 11/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Education/JavaVsu/Practice/VSU_Java_Edu/Tasks/Task 10"
+    "last_opened_file_path": "D:/Education/JavaVsu/Practice/VSU_Java_Edu/Tasks/Task 9"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -204,16 +84,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>97</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="13" />
