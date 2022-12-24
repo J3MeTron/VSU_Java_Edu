@@ -10,6 +10,7 @@ class Program
         int Length = Convert.ToInt32(Console.ReadLine());
 
         string word = "";
+        string word2 = "";
         for (int i = 0; i < N.Length; i++) 
         {
             if (N[i] != ' ')
@@ -20,9 +21,20 @@ class Program
             {
                 if (Length == word.Length) 
                 {
-                    Console.WriteLine(word);
-                    word = "";
+
+                    if (word != word2)
+                    {
+                        Console.WriteLine(word);
+                        word2 = word;
+                        word = "";
+                    }
+                    else {
+                        word2 = word;
+                        word = "";
+                    }
                 }
+                
+                word = "";
             }
         }   
 
@@ -33,34 +45,8 @@ class Program
     public static void Main()
     {
         Console.WriteLine(startText);
-
-        String line = "";
-       try
-         {
-             StreamReader sr = new StreamReader("D:\\Education\\JavaVsu\\Practice\\VSU_Java_Edu\\Tasks\\Outsorce other languages\\C#\\Anuta\\forAnuta\\Text.txt");
-
-             line = sr.ReadLine();
-
-             /*if (line == null)
-             {
-                 throw new ArgumentNullException(paramName: nameof(line), message: "parameter can't be null.");
-             }*/
-
-             while (line != null)
-             {
-                line = sr.ReadLine();
-             }
-
-             sr.Close();
-             Console.ReadLine();
-
-         }
-         catch (Exception e)
-         {
-             Console.WriteLine("Exception: " + e.Message);
-         }
-
-        Console.WriteLine(line);
+        Console.WriteLine("Введите строку: \n");
+        String line = Console.ReadLine();
         FindWord(line);
     }
 }

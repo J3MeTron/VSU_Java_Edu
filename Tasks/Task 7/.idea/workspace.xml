@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9b5c7ec-0581-4ca2-9b1c-2d6ff8dc8be8" name="Changes" comment="7 task">
-      <change afterPath="$PROJECT_DIR$/../Task 8/src/Program/ArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/src/ru/vsu/cs/course1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Примеры/Arr1JTableDemo/src/ru/vsu/cs/course1/Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task 8/src/Program/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 8/src/Program/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task 11/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/ProjectEvaluation/foranuta.metadata.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/ProjectEvaluation/foranuta.metadata.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/ProjectEvaluation/foranuta.projects.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/ProjectEvaluation/foranuta.projects.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/forAnuta/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/forAnuta/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/forAnuta/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/forAnuta/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/forAnuta/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/forAnuta/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/Text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/Text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/forAnuta/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/forAnuta/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/forAnuta/bin/Debug/net6.0/forAnuta.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/forAnuta/bin/Debug/net6.0/forAnuta.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/forAnuta/bin/Debug/net6.0/forAnuta.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/forAnuta/bin/Debug/net6.0/forAnuta.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 11/out/production/Task 11/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 11/out/production/Task 11/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 11/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 11/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Условия/Task_11.doc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Условия/Task_11.doc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Education/JavaVsu/Practice/VSU_Java_Edu/Tasks/Task 6"
+    "last_opened_file_path": "D:/Education/JavaVsu/Practice/VSU_Java_Edu/Tasks/Task 4"
   }
 }]]></component>
   <component name="RunManager">
