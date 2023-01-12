@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6190e7fb-315f-48fb-b2b1-8f86349214cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/test 2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/DrawUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/JTableUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ListUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/SwingUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/UniversalUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test 2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/ProjectEvaluation/foranuta.metadata.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/ProjectEvaluation/foranuta.metadata.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/ProjectEvaluation/foranuta.projects.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/ProjectEvaluation/foranuta.projects.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/forAnuta/FileContentIndex/836ce4aa-3063-4434-85a7-4c41cad2d537.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/forAnuta/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Outsorce other languages/C#/Anuta/forAnuta/.vs/forAnuta/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 11/out/production/Task 11/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 11/out/production/Task 11/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task 11/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Task 11/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JcY8wV5xQCw9NgIJz5W16mQfjn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6190e7fb-315f-48fb-b2b1-8f86349214cd" name="Changes" comment="" />
+      <created>1672378684409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672378684409</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>4</line>
+          <properties class="Main" method="solve">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

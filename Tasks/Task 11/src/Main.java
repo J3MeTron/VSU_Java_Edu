@@ -18,7 +18,7 @@ public class Main {
         String lastBuf = null;
         while (st.hasMoreTokens()) {
             String buf = st.nextToken();
-            if (!list.contains(buf) || buf != lastBuf) {
+            if (!list.contains(buf) || !Objects.equals(buf, lastBuf)) {
                 list.add(buf);
             }
             lastBuf = buf;
