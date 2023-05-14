@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af2b5a09-60d2-4c46-b1a1-b1081d50318b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/Task1/src/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/util/ArrayUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/util/DrawUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/util/JTableUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/util/JTableUtils$1RowHeaderRenderer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/util/JTableUtils$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/util/JTableUtils$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/util/JTableUtils$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/util/JTableUtils$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/util/JTableUtils$JTableUtilsException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/util/JTableUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/util/ListUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/util/SwingUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/util/SwingUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/out/production/task 2/util/UniversalUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/src/SimpleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/src/util/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/src/util/DrawUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/src/util/JTableUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/src/util/ListUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/src/util/SwingUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tasks(2sem)/task 2/src/util/UniversalUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/SimpleLinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/out/production/SimpleLinkedList/ru/vsu/cs/course1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/out/production/SimpleLinkedList/ru/vsu/cs/course1/SimpleLinkedList$1SimpleLinkedListIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/out/production/SimpleLinkedList/ru/vsu/cs/course1/SimpleLinkedList$SimpleLinkedListException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/out/production/SimpleLinkedList/ru/vsu/cs/course1/SimpleLinkedList$SimpleLinkedListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/out/production/SimpleLinkedList/ru/vsu/cs/course1/SimpleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/out/production/SimpleLinkedList/ru/vsu/cs/course1/SimpleLinkedListQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/out/production/SimpleLinkedList/ru/vsu/cs/course1/SimpleLinkedListQueue2$SimpleLinkedListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/out/production/SimpleLinkedList/ru/vsu/cs/course1/SimpleLinkedListQueue2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/out/production/SimpleLinkedList/ru/vsu/cs/course1/SimpleLinkedListStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/out/production/SimpleLinkedList/ru/vsu/cs/course1/SimpleLinkedListStack2$SimpleLinkedListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/out/production/SimpleLinkedList/ru/vsu/cs/course1/SimpleLinkedListStack2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/out/production/SimpleLinkedList/ru/vsu/cs/course1/SimpleQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/out/production/SimpleLinkedList/ru/vsu/cs/course1/SimpleStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/src/ru/vsu/cs/course1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/src/ru/vsu/cs/course1/SimpleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/src/ru/vsu/cs/course1/SimpleLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/src/ru/vsu/cs/course1/SimpleLinkedListQueue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/src/ru/vsu/cs/course1/SimpleLinkedListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/src/ru/vsu/cs/course1/SimpleLinkedListStack2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/src/ru/vsu/cs/course1/SimpleQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Примеры/SimpleLinkedList/src/ru/vsu/cs/course1/SimpleStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/.vs/ProjectEvaluation/foranuta.metadata.v5.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/.vs/ProjectEvaluation/foranuta.projects.v5.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/.vs/forAnuta/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/.vs/forAnuta/FileContentIndex/337040c2-44d8-4240-9a7e-a3a5471a6049.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/.vs/forAnuta/FileContentIndex/read.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/.vs/forAnuta/v17/.futdcache.v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/.vs/forAnuta/v17/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/Text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/bin/Debug/net6.0/forAnuta.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/bin/Debug/net6.0/forAnuta.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/bin/Debug/net6.0/forAnuta.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/bin/Debug/net6.0/forAnuta.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/bin/Debug/net6.0/forAnuta.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/forAnuta.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/_IsIncrementalBuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/forAnuta.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/ref/forAnuta.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/Debug/net6.0/refint/forAnuta.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/forAnuta.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/forAnuta.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/forAnuta.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/forAnuta/forAnuta/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce other languages/C#/Anuta/task.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce/Даня/Task 4.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce/Даня/Task 4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce/Даня/Task 4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce/Даня/Task 4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce/Даня/Task 4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce/Даня/Task 4/Task 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce/Даня/Task 4/out/production/Task 4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Outsorce/Даня/Task 4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Pack_Utils/ArrayUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Pack_Utils/DrawUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Pack_Utils/JTableUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Pack_Utils/ListUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Pack_Utils/SwingUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Pack_Utils/UniversalUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/TOInf/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/TOInf/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/TOInf/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/TOInf/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/TOInf/TOInf.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/TOInf/out/production/TOInf/Hemming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/TOInf/src/Hemming.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 1/FirstLeson.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 1/out/production/FirstLeson/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/Task 10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/FrameMain$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/FrameMain$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/FrameMain$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/FrameMain$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/FrameMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/util/ArrayUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/util/DrawUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/util/JTableUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/util/JTableUtils$1RowHeaderRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/util/JTableUtils$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/util/JTableUtils$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/util/JTableUtils$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/util/JTableUtils$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/util/JTableUtils$JTableUtilsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/util/JTableUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/util/ListUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/util/SwingUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/util/SwingUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/out/production/Task 10/util/UniversalUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/src/FrameMain.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/src/FrameMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/src/triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/src/util/ArrayUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/src/util/DrawUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/src/util/JTableUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/src/util/ListUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/src/util/SwingUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 10/src/util/UniversalUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/Task 11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/util/ArrayUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/util/DrawUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/util/JTableUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/util/JTableUtils$1RowHeaderRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/util/JTableUtils$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/util/JTableUtils$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/util/JTableUtils$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/util/JTableUtils$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/util/JTableUtils$JTableUtilsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/util/JTableUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/util/ListUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/util/SwingUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/util/SwingUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/out/production/Task 11/util/UniversalUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/src/util/ArrayUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/src/util/DrawUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/src/util/JTableUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/src/util/ListUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/src/util/SwingUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/src/util/UniversalUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 11/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/Task 12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/util/ArrayUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/util/DrawUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/util/JTableUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/util/JTableUtils$1RowHeaderRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/util/JTableUtils$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/util/JTableUtils$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/util/JTableUtils$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/util/JTableUtils$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/util/JTableUtils$JTableUtilsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/util/JTableUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/util/ListUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/util/SwingUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/util/SwingUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/out/production/Task 12/util/UniversalUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/src/util/ArrayUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/src/util/DrawUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/src/util/JTableUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/src/util/ListUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/src/util/SwingUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 12/src/util/UniversalUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 2/Task 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 2/Task 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 2/Task 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 2/Task 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 2/Task 2/Task 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 2/Task 2/out/production/Task 2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 2/Task 2/src/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 2/out/production/Task 2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/Task 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/Task 3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/Task 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/Task 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/Task 3/Task 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/Task 3/src/HorizontalParabola.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/Task 3/src/Line.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/Task 3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/Task 3/src/SimpleColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/out/production/Task 3/HorizontalParabola.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/out/production/Task 3/Line.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/out/production/Task 3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 3/out/production/Task 3/SimpleColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 4/Task 4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 4/out/production/Task 4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 5/Task 5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 5/out/production/Task 5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 6/Task 6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 6/out/production/Task 6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 6/src/ex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 7/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 7/Task 7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 7/out/production/Task 7/ArrayUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 7/out/production/Task 7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 7/src/ArrayUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 7/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/Task 8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/Program/ArrayUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/Program/FrameMain$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/Program/FrameMain$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/Program/FrameMain$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/Program/FrameMain$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/Program/FrameMain$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/Program/FrameMain$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/Program/FrameMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/Program/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/Program/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/util/ArrayUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/util/DrawUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/util/JTableUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/util/JTableUtils$1RowHeaderRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/util/JTableUtils$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/util/JTableUtils$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/util/JTableUtils$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/util/JTableUtils$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/util/JTableUtils$JTableUtilsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/util/JTableUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/util/SwingUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/out/production/Task 8/util/SwingUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/src/Program/ArrayUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/src/Program/FrameMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/src/Program/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/src/util/ArrayUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/src/util/DrawUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/src/util/JTableUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 8/src/util/SwingUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/Task 9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/FrameMain$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/FrameMain$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/FrameMain$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/FrameMain$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/FrameMain$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/FrameMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/com/intellij/uiDesigner/core/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/util/ArrayUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/util/DrawUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/util/JTableUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/util/JTableUtils$1RowHeaderRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/util/JTableUtils$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/util/JTableUtils$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/util/JTableUtils$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/util/JTableUtils$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/util/JTableUtils$JTableUtilsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/util/JTableUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/util/ListUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/util/SwingUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/out/production/Task 9/util/SwingUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/src/FrameMain.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/src/FrameMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/src/util/ArrayUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/src/util/DrawUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/src/util/JTableUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/src/util/ListUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/src/util/SwingUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/Task 9/src/util/UniversalUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/util/ArrayUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/util/DrawUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/util/JTableUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/util/JTableUtils$1RowHeaderRenderer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/util/JTableUtils$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/util/JTableUtils$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/util/JTableUtils$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/util/JTableUtils$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/util/JTableUtils$JTableUtilsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/util/JTableUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/util/ListUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/util/SwingUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/util/SwingUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/out/production/test 2/util/UniversalUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/src/util/ArrayUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/src/util/DrawUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/src/util/JTableUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/src/util/ListUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/src/util/SwingUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/src/util/UniversalUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tasks/test 2/test 2.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IfmQJAHepa6RRRLiuarWnufjrR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Education/JavaVsu/Practice/VSU_Java_Edu/Tasks(1sem)/Task 8"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Education\JavaVsu\Practice\VSU_Java_Edu\Tasks\Task 10\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="util" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af2b5a09-60d2-4c46-b1a1-b1081d50318b" name="Changes" comment="" />
+      <created>1670580995867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670580995867</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="13" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
