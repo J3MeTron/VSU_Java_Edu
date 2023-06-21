@@ -1,14 +1,13 @@
 package petrov.task5;
+
 import java.util.List;
 import java.util.ArrayList;
 
 public class Tree<T> {
 
-    public TreeNode<T> root; //создаем корень
-
     public static class TreeNode<T> {
-        private T value;
-        private List<TreeNode<T>> children = new ArrayList<>();
+        T value;
+        public List<TreeNode<T>> children = new ArrayList<>();
 
         public TreeNode(T value) {
             this.value = value;
@@ -21,6 +20,16 @@ public class Tree<T> {
         public List<TreeNode<T>> getChildren() {
             return children;
         }
+    }
+
+    public TreeNode<T> root;
+
+    public Tree() {
+        this.root = root;
+    }
+
+    public TreeNode<T> getRoot() {
+        return root;
     }
 
     public void flipTree() {
@@ -45,6 +54,7 @@ public class Tree<T> {
             flipNode(child);
         }
     }
+
     public void outputTree() {
         outputNode(root, 0);
     }

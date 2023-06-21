@@ -7,7 +7,7 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) throws Exception {
 
-        int maxSize = 1000; // максимальный размер массива для сортировки
+        int maxSize = 10000; // максимальный размер массива для сортировки
         int step = 100; // шаг увеличения размера массива
         int srz = 10;
         int n = 0;
