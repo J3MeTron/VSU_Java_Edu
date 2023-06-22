@@ -2,6 +2,9 @@ package petrov;
 
 import javax.swing.*;
 
+import java.util.Comparator;
+import java.util.PriorityQueue;
+
 import static java.awt.Frame.MAXIMIZED_BOTH;
 
 public class Main {
@@ -13,6 +16,20 @@ public class Main {
             PriorityQueueGUI priorityQueueGUI = new PriorityQueueGUI();
             priorityQueueGUI.setVisible(true);
             priorityQueueGUI.setExtendedState(MAXIMIZED_BOTH);
+
+
+            class ToDoTask {
+                int priority;
+                String description;
+            }
+            java.util.PriorityQueue<ToDoTask> q = new PriorityQueue<>(new Comparator<ToDoTask>() {
+                @Override
+                public int compare(ToDoTask o1, ToDoTask o2) {
+                    return o1.priority - o2.priority;
+                }
+            });
+
+            q.po
         });
 
 
