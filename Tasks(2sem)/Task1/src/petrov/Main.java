@@ -19,6 +19,8 @@ public class Main {
         startProgram();
         ComplexNumber z1 = new ComplexNumber(2, 3);
         ComplexNumber z2 = new ComplexNumber(-1, 2);
+        ComplexNumber z3 = new ComplexNumber(343, 712);
+        ComplexNumber z4 = new ComplexNumber(511, -111);
 
         ComplexNumber sum = z1.add(z2);
         System.out.println("Sum: " + sum.getReal() + " + " + sum.getImaginary() + "i");
@@ -46,5 +48,11 @@ public class Main {
 
         ComplexNumber tanZ = ComplexMath.tan(z1);
         System.out.println("tan(z1): " + tanZ.getReal() + " + " + tanZ.getImaginary() + "i");
+
+        ComplexNumber q = z3.divide(z4);
+        ComplexNumber v = q.multiply(z4);
+        ComplexNumber e = z3.subtract(v);
+        System.out.print(e.getReal() + " + " + e.getImaginary() + "i");
+
     }
 }

@@ -22,15 +22,15 @@ public class Main {
                 int priority;
                 String description;
             }
-            java.util.PriorityQueue<ToDoTask> q = new PriorityQueue<>(new Comparator<ToDoTask>() {
+                java.util.PriorityQueue<ToDoTask> q = new PriorityQueue<>(new Comparator<ToDoTask>() {
                 @Override
                 public int compare(ToDoTask o1, ToDoTask o2) {
                     return o1.priority - o2.priority;
                 }
             });
 
-            q.po
-        });
+            q.
+            });
 
 
 
